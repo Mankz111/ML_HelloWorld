@@ -5,7 +5,7 @@ import os
 
 current_dir = os.path.dirname(os.path.abspath(__file__))
 model_path = os.path.join(current_dir, 'modelo_diabetes.pkl')
-modelo = joblib.load('modelo_diabetes.pkl')
+
 
 try:
     modelo = joblib.load(model_path)
