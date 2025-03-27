@@ -12,7 +12,7 @@ A simple machine learning model to predict diabetes risk based on clinical featu
 **Key Features**:
 - Binary classification (Diabetic/Non-Diabetic)
 - Decision Tree/Random Forest implementation
-- Basic web app interface (Streamlit/Flask)
+- Basic web app interface (Streamlit)
 
 ---
 
